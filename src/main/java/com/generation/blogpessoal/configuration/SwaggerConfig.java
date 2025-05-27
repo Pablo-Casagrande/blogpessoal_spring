@@ -27,7 +27,7 @@ public class SwaggerConfig {
                     .url("https://brazil.generation.org/"))
                 .contact(new Contact()
                     .name("Pablo Furtado Casagrande")
-                    .url("https://github.com/Pablo-Casagrande")
+                    .url("https://www.linkedin.com/in/pablo-furtado-casagrande-08663434a/")
                     .email("furtadocasagrandepablo@gmail.com")))
             .externalDocs(new ExternalDocumentation()
                 .description("Github")
